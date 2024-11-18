@@ -1,0 +1,14 @@
+D:\Solve Tasks\Solve Task2 (13-11-24)\bin\Debug\net8.0\Solve Task2 (13-11-24).exe
+D:\Solve Tasks\Solve Task2 (13-11-24)\bin\Debug\net8.0\Solve Task2 (13-11-24).deps.json
+D:\Solve Tasks\Solve Task2 (13-11-24)\bin\Debug\net8.0\Solve Task2 (13-11-24).runtimeconfig.json
+D:\Solve Tasks\Solve Task2 (13-11-24)\bin\Debug\net8.0\Solve Task2 (13-11-24).dll
+D:\Solve Tasks\Solve Task2 (13-11-24)\bin\Debug\net8.0\Solve Task2 (13-11-24).pdb
+D:\Solve Tasks\Solve Task2 (13-11-24)\obj\Debug\net8.0\Solve Task2 (13-11-24).GeneratedMSBuildEditorConfig.editorconfig
+D:\Solve Tasks\Solve Task2 (13-11-24)\obj\Debug\net8.0\Solve Task2 (13-11-24).AssemblyInfoInputs.cache
+D:\Solve Tasks\Solve Task2 (13-11-24)\obj\Debug\net8.0\Solve Task2 (13-11-24).AssemblyInfo.cs
+D:\Solve Tasks\Solve Task2 (13-11-24)\obj\Debug\net8.0\Solve Task2 (13-11-24).csproj.CoreCompileInputs.cache
+D:\Solve Tasks\Solve Task2 (13-11-24)\obj\Debug\net8.0\Solve Task2 (13-11-24).dll
+D:\Solve Tasks\Solve Task2 (13-11-24)\obj\Debug\net8.0\refint\Solve Task2 (13-11-24).dll
+D:\Solve Tasks\Solve Task2 (13-11-24)\obj\Debug\net8.0\Solve Task2 (13-11-24).pdb
+D:\Solve Tasks\Solve Task2 (13-11-24)\obj\Debug\net8.0\Solve Task2 (13-11-24).genruntimeconfig.cache
+D:\Solve Tasks\Solve Task2 (13-11-24)\obj\Debug\net8.0\ref\Solve Task2 (13-11-24).dll
